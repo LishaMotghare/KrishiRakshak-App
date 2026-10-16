@@ -1,13 +1,11 @@
 ![Banner](krishiRakshak%20Banner.jpg)
 
 # 🌾 KrishiRakshak - Smart Farming Protection
-> AI-Powered Real-Time Crop Monitoring & Protection System
 
-🔗 **Live Demo:** https://krishirakshak.vercel.app/
-📂 **GitHub:** https://github.com/LishaMotghare/krishirakshak
+🔗 **Live App:** (https://krishi-rakshak-app.vercel.app/)
 
-### 📸 App Preview
-![Dashboard](krishiRakshak%20Banner.jpg)
+### 📸 Real App Screenshot
+![App](Screenshot%202026-10-16%20102551.png)
 
 ### ✨ Key Features
 - 🐛 AI Pest Detection - 92% Accuracy
