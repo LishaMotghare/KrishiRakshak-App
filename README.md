@@ -3,9 +3,7 @@
 # 🌾 KrishiRakshak - Smart Farming Protection
 
 🔗 **Live App:** (https://krishi-rakshak-app.vercel.app/)
-
-### 📸 Real App Screenshot
-![App](Screenshot%202026-10-16%20102551.png)
+📂 **GitHub:** https://github.com/LishaMotghare/krishirakshak
 
 ### ✨ Key Features
 - 🐛 AI Pest Detection - 92% Accuracy
@@ -14,6 +12,9 @@
 - 🚁 Drone Surveillance
 - 🔔 Real-time Alerts
 - 📊 Crop Health Analysis
+
+### 📸 Real App Screenshot
+![App](Screenshot%202026-10-16%20102551.png)
 
 ### 👩‍💻 Developed by
 **Lisha Motghare**
